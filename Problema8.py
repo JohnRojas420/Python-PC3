@@ -11,7 +11,7 @@
 
 #Solución:
 
-# operaciones.py
+# Creando el módulo operaciones.py as Problema8
 
 def suma(a, b):
     try:
